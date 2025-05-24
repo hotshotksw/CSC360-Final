@@ -1,12 +1,173 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Coding\\C#\\CSC360-Final\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Projects\\C#\\CSC360-Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\weapon\\beamweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:weapon\\beamweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\interface\\ibeamweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:interface\\ibeamweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\weapon\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:weapon\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\factory\\iweaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:factory\\iweaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\factory\\iabstractweaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:factory\\iabstractweaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\interface\\ikineticweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:interface\\ikineticweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\interface\\iprojectileweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:interface\\iprojectileweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeamWeapon.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Weapon\\BeamWeapon.cs",
+              "RelativeDocumentMoniker": "Weapon\\BeamWeapon.cs",
+              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Weapon\\BeamWeapon.cs",
+              "RelativeToolTip": "Weapon\\BeamWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:05:52.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWeaponFactory.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Factory\\IWeaponFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\IWeaponFactory.cs",
+              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Factory\\IWeaponFactory.cs",
+              "RelativeToolTip": "Factory\\IWeaponFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:04:11.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProjectileWeapon.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Interface\\IProjectileWeapon.cs",
+              "RelativeDocumentMoniker": "Interface\\IProjectileWeapon.cs",
+              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Interface\\IProjectileWeapon.cs",
+              "RelativeToolTip": "Interface\\IProjectileWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:00:38.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBeamWeapon.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Interface\\IBeamWeapon.cs",
+              "RelativeDocumentMoniker": "Interface\\IBeamWeapon.cs",
+              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Interface\\IBeamWeapon.cs",
+              "RelativeToolTip": "Interface\\IBeamWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:00:30.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IKineticWeapon.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Interface\\IKineticWeapon.cs",
+              "RelativeDocumentMoniker": "Interface\\IKineticWeapon.cs",
+              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Interface\\IKineticWeapon.cs",
+              "RelativeToolTip": "Interface\\IKineticWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:00:23.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Weapon\\Weapon.cs",
+              "RelativeDocumentMoniker": "Weapon\\Weapon.cs",
+              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Weapon\\Weapon.cs",
+              "RelativeToolTip": "Weapon\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:53:33.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAbstractWeaponFactory.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Factory\\IAbstractWeaponFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\IAbstractWeaponFactory.cs",
+              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Factory\\IAbstractWeaponFactory.cs",
+              "RelativeToolTip": "Factory\\IAbstractWeaponFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:52:52.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:50:37.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:45:23.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -35,5 +35,17 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Client.cs" />
+    <Compile Include="Factory\IWeaponFactory.cs" />
+    <Compile Include="Interface\IBeamWeapon.cs" />
+    <Compile Include="Interface\IKineticWeapon.cs" />
+    <Compile Include="Interface\IProjectileWeapon.cs" />
+    <Compile Include="Factory\IAbstractWeaponFactory.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Weapon\BeamWeapon.cs" />
+    <Compile Include="Weapon\Weapon.cs" />
+  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

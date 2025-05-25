@@ -6,16 +6,16 @@ using System.Threading.Tasks;
 
 namespace CSC360_Final
 {
-    public class BeamWeapon : IBeamWeapon
+    public class KineticWeapon : IKineticWeapon
     {
         public Weapon GetWeapon()
         {
             return new()
             {
-                weaponName = "IS-BEMR",
-                projectileType = Weapon.ProjectileType.BEAM,
-                maxCapacity = 15,
-                fireRate = 2.5f
+                weaponName = "3M-FMA",
+                projectileType = Weapon.ProjectileType.KINETIC,
+                maxCapacity = 100,
+                fireRate = 0.5f
             };
         }
     }

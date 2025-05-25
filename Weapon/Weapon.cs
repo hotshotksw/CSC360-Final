@@ -19,7 +19,6 @@ namespace CSC360_Final
         public ProjectileType projectileType;
         public int maxCapacity;
         public int currentCapacity;
-        public float reloadSpeed;
         public float fireRate;
     }
 }

@@ -4,23 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSC360_Final.Factory
+namespace CSC360_Final
 {
     public class IWeaponFactory : IAbstractWeaponFactory
     {
         public IBeamWeapon GetBeamWeapon()
         {
-            return new NotImplementedException();
+            return new BeamWeapon();
         }
 
         public IKineticWeapon GetKineticWeapon()
         {
-            throw new NotImplementedException();
+            return new KineticWeapon();
         }
 
         public IProjectileWeapon GetProjectileWeapon()
         {
-            throw new NotImplementedException();
+            return new ProjectileWeapon();
         }
     }
 }

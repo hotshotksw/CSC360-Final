@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSC360_Final.Factory
+namespace CSC360_Final
 {
     public interface IProjectileWeapon
     {

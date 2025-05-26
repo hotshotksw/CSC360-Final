@@ -3,48 +3,32 @@
   "WorkspaceRootPath": "C:\\Projects\\C#\\CSC360-Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\projects\\c#\\csc360-final\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\weapon\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:weapon\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\projects\\c#\\csc360-final\\decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\interface\\ibeamweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:interface\\ibeamweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\projects\\c#\\csc360-final\\decorator\\decorator\\concretedecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorator\\concretedecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\interface\\ikineticweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:interface\\ikineticweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\projects\\c#\\csc360-final\\decorator\\decorator\\concretedecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorator\\concretedecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\projects\\c#\\csc360-final\\decorator\\decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\factory\\iabstractweaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:factory\\iabstractweaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\projects\\c#\\csc360-final\\decorator\\component\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\component\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\weapon\\kineticweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:weapon\\kineticweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\weapon\\beamweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:weapon\\beamweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\interface\\iprojectileweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:interface\\iprojectileweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\weapon\\projectileweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:weapon\\projectileweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|c:\\projects\\c#\\csc360-final\\factory\\iweaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C95D95B-0855-4699-B79C-596EDB9BAE53}|CSC360-Final.csproj|solutionrelative:factory\\iweaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\projects\\c#\\csc360-final\\decorator\\component\\concretecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\component\\concretecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,149 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAADwvwwAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T21:15:00.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Weapon.cs",
-              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Weapon\\Weapon.cs",
-              "RelativeDocumentMoniker": "Weapon\\Weapon.cs",
-              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Weapon\\Weapon.cs",
-              "RelativeToolTip": "Weapon\\Weapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T20:28:55.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Client.cs",
-              "RelativeDocumentMoniker": "Client.cs",
-              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Client.cs",
-              "RelativeToolTip": "Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Client.cs",
+              "RelativeDocumentMoniker": "Decorator\\Client.cs",
+              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Client.cs",
+              "RelativeToolTip": "Decorator\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T21:10:01.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IProjectileWeapon.cs",
-              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Interface\\IProjectileWeapon.cs",
-              "RelativeDocumentMoniker": "Interface\\IProjectileWeapon.cs",
-              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Interface\\IProjectileWeapon.cs",
-              "RelativeToolTip": "Interface\\IProjectileWeapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T21:08:33.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IKineticWeapon.cs",
-              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Interface\\IKineticWeapon.cs",
-              "RelativeDocumentMoniker": "Interface\\IKineticWeapon.cs",
-              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Interface\\IKineticWeapon.cs",
-              "RelativeToolTip": "Interface\\IKineticWeapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T21:08:30.368Z",
+              "WhenOpened": "2025-05-26T01:24:38.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IBeamWeapon.cs",
-              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Interface\\IBeamWeapon.cs",
-              "RelativeDocumentMoniker": "Interface\\IBeamWeapon.cs",
-              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Interface\\IBeamWeapon.cs",
-              "RelativeToolTip": "Interface\\IBeamWeapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Title": "ConcreteDecoratorB.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Decorator\\ConcreteDecoratorB.cs",
+              "RelativeDocumentMoniker": "Decorator\\Decorator\\ConcreteDecoratorB.cs",
+              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Decorator\\ConcreteDecoratorB.cs",
+              "RelativeToolTip": "Decorator\\Decorator\\ConcreteDecoratorB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T21:08:26.936Z",
+              "WhenOpened": "2025-05-26T01:24:18.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IWeaponFactory.cs",
-              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Factory\\IWeaponFactory.cs",
-              "RelativeDocumentMoniker": "Factory\\IWeaponFactory.cs",
-              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Factory\\IWeaponFactory.cs",
-              "RelativeToolTip": "Factory\\IWeaponFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ConcreteDecoratorA.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Decorator\\ConcreteDecoratorA.cs",
+              "RelativeDocumentMoniker": "Decorator\\Decorator\\ConcreteDecoratorA.cs",
+              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Decorator\\ConcreteDecoratorA.cs",
+              "RelativeToolTip": "Decorator\\Decorator\\ConcreteDecoratorA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T21:07:31.556Z",
+              "WhenOpened": "2025-05-26T01:22:45.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProjectileWeapon.cs",
-              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Weapon\\ProjectileWeapon.cs",
-              "RelativeDocumentMoniker": "Weapon\\ProjectileWeapon.cs",
-              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Weapon\\ProjectileWeapon.cs",
-              "RelativeToolTip": "Weapon\\ProjectileWeapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Decorator\\Decorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\Decorator\\Decorator.cs",
+              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Decorator\\Decorator.cs",
+              "RelativeToolTip": "Decorator\\Decorator\\Decorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T20:55:15.047Z",
+              "WhenOpened": "2025-05-26T00:46:26.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "KineticWeapon.cs",
-              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Weapon\\KineticWeapon.cs",
-              "RelativeDocumentMoniker": "Weapon\\KineticWeapon.cs",
-              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Weapon\\KineticWeapon.cs",
-              "RelativeToolTip": "Weapon\\KineticWeapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ConcreteComponent.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Component\\ConcreteComponent.cs",
+              "RelativeDocumentMoniker": "Decorator\\Component\\ConcreteComponent.cs",
+              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Component\\ConcreteComponent.cs",
+              "RelativeToolTip": "Decorator\\Component\\ConcreteComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T20:53:19.611Z",
+              "WhenOpened": "2025-05-26T00:44:59.726Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IAbstractWeaponFactory.cs",
-              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Factory\\IAbstractWeaponFactory.cs",
-              "RelativeDocumentMoniker": "Factory\\IAbstractWeaponFactory.cs",
-              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Factory\\IAbstractWeaponFactory.cs",
-              "RelativeToolTip": "Factory\\IAbstractWeaponFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAXAAAAAAAAAA==",
+              "Title": "Component.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Component\\Component.cs",
+              "RelativeDocumentMoniker": "Decorator\\Component\\Component.cs",
+              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Component\\Component.cs",
+              "RelativeToolTip": "Decorator\\Component\\Component.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T20:31:18.351Z",
+              "WhenOpened": "2025-05-26T00:41:09.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BeamWeapon.cs",
-              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Weapon\\BeamWeapon.cs",
-              "RelativeDocumentMoniker": "Weapon\\BeamWeapon.cs",
-              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Weapon\\BeamWeapon.cs",
-              "RelativeToolTip": "Weapon\\BeamWeapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator\\Program.cs",
+              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Program.cs",
+              "RelativeToolTip": "Decorator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T20:17:31.14Z",
+              "WhenOpened": "2025-05-25T23:56:45.803Z",
               "EditorCaption": ""
             }
           ]

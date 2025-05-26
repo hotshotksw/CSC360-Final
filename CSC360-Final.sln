@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSC360-Final", "CSC360-Final.csproj", "{7C95D95B-0855-4699-B79C-596EDB9BAE53}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory.csproj", "{7C95D95B-0855-4699-B79C-596EDB9BAE53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{A3068F01-03AC-4249-97E2-103DF70C4369}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7C95D95B-0855-4699-B79C-596EDB9BAE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C95D95B-0855-4699-B79C-596EDB9BAE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C95D95B-0855-4699-B79C-596EDB9BAE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3068F01-03AC-4249-97E2-103DF70C4369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3068F01-03AC-4249-97E2-103DF70C4369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3068F01-03AC-4249-97E2-103DF70C4369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3068F01-03AC-4249-97E2-103DF70C4369}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

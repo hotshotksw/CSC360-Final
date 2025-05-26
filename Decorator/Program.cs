@@ -15,7 +15,6 @@ namespace Decorator
 
             ConcreteDecoratorA decorator1 = new ConcreteDecoratorA(baseAbility);
             ConcreteDecoratorB decorator2 = new ConcreteDecoratorB(decorator1);
-            Console.WriteLine("Client: Now I've got a decorated component:");
         }
     }
 }

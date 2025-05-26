@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Decorator
 {
-    public abstract class Component
+    public abstract class Ability
     {
         public abstract string Operation();
     }

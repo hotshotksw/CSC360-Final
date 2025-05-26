@@ -11,9 +11,9 @@ namespace Decorator
         // The client code works with all objects using the Component interface.
         // This way it can stay independent of the concrete classes of
         // components it works with.
-        public void ClientCode(Ability component)
+        public void ClientCode(Creature component)
         {
-            Console.WriteLine("RESULT: " + component.Operation());
+            Console.WriteLine("RESULT: " + component.GetAbility());
         }
     }
 }

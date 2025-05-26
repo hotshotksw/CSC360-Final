@@ -6,25 +6,26 @@ using System.Threading.Tasks;
 
 namespace Decorator
 {
-    abstract class Decorator : Ability
+    abstract class Decorator : Creature
     {
-        protected Ability _ability;
+        protected Creature _character;
+        public string ability = "";
 
-        public Decorator(Ability component)
+        public Decorator(Creature character)
         {
-            this._ability = component;
+            this._character = character;
         }
 
-        public void SetComponent(Ability component)
+        public void SetCreature(Creature character)
         {
-            this._ability = component;
+            this._character = character;
         }
 
-        public override string Operation()
+        public override string GetAbility()
         {
-            if (this._ability != null)
+            if (this._character != null)
             {
-                return this._ability.Operation();
+                return this._character.GetAbility() + "\n" + ability;
             }
             else
             {

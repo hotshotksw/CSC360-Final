@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Decorator
 {
-    public abstract class Ability
+    public abstract class Creature
     {
-        public abstract string Operation();
+        public abstract string GetAbility();
     }
 }

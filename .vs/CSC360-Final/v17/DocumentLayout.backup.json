@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\C#\\CSC360-Final\\",
+  "WorkspaceRootPath": "C:\\Coding\\C#\\CSC360-Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\projects\\c#\\csc360-final\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\coding\\c#\\csc360-final\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\projects\\c#\\csc360-final\\decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\coding\\c#\\csc360-final\\decorator\\decorator\\trampledecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorator\\trampledecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\projects\\c#\\csc360-final\\decorator\\decorator\\concretedecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorator\\concretedecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\projects\\c#\\csc360-final\\decorator\\decorator\\concretedecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorator\\concretedecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\projects\\c#\\csc360-final\\decorator\\decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\coding\\c#\\csc360-final\\decorator\\decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\projects\\c#\\csc360-final\\decorator\\component\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\component\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\coding\\c#\\csc360-final\\decorator\\decorator\\flyingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorator\\flyingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\projects\\c#\\csc360-final\\decorator\\component\\concretecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\component\\concretecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\coding\\c#\\csc360-final\\decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\coding\\c#\\csc360-final\\decorator\\component\\basecreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\component\\basecreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|c:\\coding\\c#\\csc360-final\\decorator\\component\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3068F01-03AC-4249-97E2-103DF70C4369}|Decorator\\Decorator.csproj|solutionrelative:decorator\\component\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Client.cs",
-              "RelativeDocumentMoniker": "Decorator\\Client.cs",
-              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Client.cs",
-              "RelativeToolTip": "Decorator\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Title": "TrampleDecorator.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\CSC360-Final\\Decorator\\Decorator\\TrampleDecorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\Decorator\\TrampleDecorator.cs",
+              "ToolTip": "C:\\Coding\\C#\\CSC360-Final\\Decorator\\Decorator\\TrampleDecorator.cs",
+              "RelativeToolTip": "Decorator\\Decorator\\TrampleDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T01:24:38.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ConcreteDecoratorB.cs",
-              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Decorator\\ConcreteDecoratorB.cs",
-              "RelativeDocumentMoniker": "Decorator\\Decorator\\ConcreteDecoratorB.cs",
-              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Decorator\\ConcreteDecoratorB.cs",
-              "RelativeToolTip": "Decorator\\Decorator\\ConcreteDecoratorB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T01:24:18.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConcreteDecoratorA.cs",
-              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Decorator\\ConcreteDecoratorA.cs",
-              "RelativeDocumentMoniker": "Decorator\\Decorator\\ConcreteDecoratorA.cs",
-              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Decorator\\ConcreteDecoratorA.cs",
-              "RelativeToolTip": "Decorator\\Decorator\\ConcreteDecoratorA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T01:22:45.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Decorator.cs",
-              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Decorator\\Decorator.cs",
-              "RelativeDocumentMoniker": "Decorator\\Decorator\\Decorator.cs",
-              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Decorator\\Decorator.cs",
-              "RelativeToolTip": "Decorator\\Decorator\\Decorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T00:46:26.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ConcreteComponent.cs",
-              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Component\\ConcreteComponent.cs",
-              "RelativeDocumentMoniker": "Decorator\\Component\\ConcreteComponent.cs",
-              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Component\\ConcreteComponent.cs",
-              "RelativeToolTip": "Decorator\\Component\\ConcreteComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T00:44:59.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Component.cs",
-              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Component\\Component.cs",
-              "RelativeDocumentMoniker": "Decorator\\Component\\Component.cs",
-              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Component\\Component.cs",
-              "RelativeToolTip": "Decorator\\Component\\Component.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T00:41:09.073Z",
+              "WhenOpened": "2025-05-26T07:37:30.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Program.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\CSC360-Final\\Decorator\\Program.cs",
               "RelativeDocumentMoniker": "Decorator\\Program.cs",
-              "ToolTip": "C:\\Projects\\C#\\CSC360-Final\\Decorator\\Program.cs",
+              "ToolTip": "C:\\Coding\\C#\\CSC360-Final\\Decorator\\Program.cs",
               "RelativeToolTip": "Decorator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T23:56:45.803Z",
+              "WhenOpened": "2025-05-26T07:09:09.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\CSC360-Final\\Decorator\\Client.cs",
+              "RelativeDocumentMoniker": "Decorator\\Client.cs",
+              "ToolTip": "C:\\Coding\\C#\\CSC360-Final\\Decorator\\Client.cs",
+              "RelativeToolTip": "Decorator\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T07:08:57.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlyingDecorator.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\CSC360-Final\\Decorator\\Decorator\\FlyingDecorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\Decorator\\FlyingDecorator.cs",
+              "ToolTip": "C:\\Coding\\C#\\CSC360-Final\\Decorator\\Decorator\\FlyingDecorator.cs",
+              "RelativeToolTip": "Decorator\\Decorator\\FlyingDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T07:07:49.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\CSC360-Final\\Decorator\\Decorator\\Decorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\Decorator\\Decorator.cs",
+              "ToolTip": "C:\\Coding\\C#\\CSC360-Final\\Decorator\\Decorator\\Decorator.cs",
+              "RelativeToolTip": "Decorator\\Decorator\\Decorator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawBsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:47:23.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseCreature.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\CSC360-Final\\Decorator\\Component\\BaseCreature.cs",
+              "RelativeDocumentMoniker": "Decorator\\Component\\BaseCreature.cs",
+              "ToolTip": "C:\\Coding\\C#\\CSC360-Final\\Decorator\\Component\\BaseCreature.cs",
+              "RelativeToolTip": "Decorator\\Component\\BaseCreature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:54:21.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Creature.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\CSC360-Final\\Decorator\\Component\\Creature.cs",
+              "RelativeDocumentMoniker": "Decorator\\Component\\Creature.cs",
+              "ToolTip": "C:\\Coding\\C#\\CSC360-Final\\Decorator\\Component\\Creature.cs",
+              "RelativeToolTip": "Decorator\\Component\\Creature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:54:45.668Z",
               "EditorCaption": ""
             }
           ]

@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace Decorator
 {
-    class ConcreteAbility : Ability
+    class BaseCreature : Creature
     {
-        public string ability;
-        
-        public override string Operation()
+        public override string GetAbility()
         {
-            return "ABILITY: " + ability + "\n";
+            return "BASE";
         }
     }
 }

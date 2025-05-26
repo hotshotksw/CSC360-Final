@@ -10,11 +10,20 @@ namespace Decorator
     {
         static void Main(string[] args)
         {
-            var baseAbility = new ConcreteAbility();
+            var creature = new BaseCreature();
+            Console.WriteLine("=== CREATURE ABILITIES ===");
+            Console.WriteLine(creature.GetAbility());
             Console.WriteLine();
 
-            ConcreteDecoratorA decorator1 = new ConcreteDecoratorA(baseAbility);
-            ConcreteDecoratorB decorator2 = new ConcreteDecoratorB(decorator1);
+            Console.WriteLine("=== CREATURE ABILITIES ===");
+            FlyingDecorator flyingCreature = new FlyingDecorator(creature);
+            Console.WriteLine(flyingCreature.GetAbility());
+            Console.WriteLine();
+
+            Console.WriteLine("=== CREATURE ABILITIES ===");
+            TrampleDecorator trampleCreature = new TrampleDecorator(flyingCreature);
+            Console.WriteLine(trampleCreature.GetAbility());
+            Console.WriteLine();
         }
     }
 }
